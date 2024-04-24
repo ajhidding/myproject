@@ -16,9 +16,9 @@ Grasshopper is included and pre-installed in Rhino 6 and 7. For the installation
 
 Basic Tutorials:
 Rhino tutorials: http://www.rhino3d.com/tutorials
-http://vimeo.com/58212839 (must watch & practice, about 5 minutes)
-http://vimeo.com/82431575 (must watch & practice, about 1 hour)
-https://vimeo.com/28175502 (must watch & practice, about 2 hours)
+http://vimeo.com/58212839 
+http://vimeo.com/82431575 
+https://vimeo.com/28175502 
 
 **Requirements** 
 Plug-Ins:
