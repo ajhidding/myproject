@@ -1,6 +1,6 @@
-# [Design to Robotic Production (D2RP)]
+# [Rhizome 2.0 (D2RP)]
 
-[The porpose of this repository is to share the procuction scripts and methodologies that have been developed in the RBlab at the TU-Delft]
+[The purpose of this repository is to share the production scripts and methodologies that have been developed in the RBlab at the TU-Delft]
 
 ## Installation
 
